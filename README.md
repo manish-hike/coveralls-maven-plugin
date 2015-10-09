@@ -1,4 +1,4 @@
-coveralls-maven-plugin
+coveralls-maven-plugin :
 ======================
 
 [![Build Status](http://img.shields.io/travis/trautonen/coveralls-maven-plugin/master.svg)](https://travis-ci.org/trautonen/coveralls-maven-plugin)
